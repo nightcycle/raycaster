@@ -1,13 +1,13 @@
 [package]
 name = "nightcycle/raycaster"
 description = "A package!"
-version = "1.0.0"
+version = "2.0.0"
 authors = ["CJ Oyer <coyer@nightcycle.us>"]
 realm = "shared"
 registry = "https://github.com/upliftgames/wally-index"
 exclude = ["Packages", ".vscode"]
 
 [dependencies]
-ColdFusion = "nightcycle/cold-fusion@^7.0.0"
+ColdFusion = "nightcycle/cold-fusion@^8.0.0"
 Maid = "nightcycle/maid@^1.1.4"
 GeometryUtil = "nightcycle/geometry-util@^1.1.1"
