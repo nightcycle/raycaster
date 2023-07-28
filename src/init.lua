@@ -5,7 +5,6 @@ local RunService = game:GetService("RunService")
 -- Packages
 local Package = script
 local Packages = Package.Parent
-assert(Packages ~= nil)
 local Maid = require(Packages:WaitForChild("Maid"))
 local ColdFusion = require(Packages:WaitForChild("ColdFusion"))
 local GeometryUtil = require(Packages:WaitForChild("GeometryUtil"))

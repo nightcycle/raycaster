@@ -4,6 +4,10 @@
 out/**
 Packages/**
 scripts/compile/__pycache__/**
+types
+tests/lsp/**
+tests/selene/**
+lints
 
 # Files
 sourcemap.json
